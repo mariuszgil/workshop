@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ramsey/uuid": "^3.9",
+        "moneyphp/money": "^3.3"
+    }
+}
